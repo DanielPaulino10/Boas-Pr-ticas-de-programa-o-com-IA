@@ -1,0 +1,19 @@
+Monolito modular no começo.
+
+Separação entre domínio, aplicação e infraestrutura.
+
+DTOs e validação explícita.
+
+Nomeação consistente.
+
+Sem lógica de negócio em controller.
+
+Testes para regras críticas.
+
+Migrações versionadas.
+
+PRs pequenos e revisáveis.
+
+Linters e formatter obrigatórios.
+
+Logs estruturados.
